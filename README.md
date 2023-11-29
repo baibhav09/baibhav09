@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Baibhav Anand
 - 👀 I’m interested in Cyber-Security and Machine Learning
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently pursuing Master in the Field of Cybersecurity
 
 
 <!---
