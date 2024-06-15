@@ -12,14 +12,6 @@ Beyond academics, I am passionate about contributing to society through educatio
 
 I am committed to continuous learning and leveraging my skills to make meaningful contributions to the cybersecurity field and society at large.
 
-👀 What I'm Into:
-
-Dedicated Cyber Security professional with 2 years of experience. Proactive problem solver with strong leadership and communication skills. Committed to continuous learning to stay updated with evolving cybersecurity trends. 
-
-💡 The Knowledge Quest:
-
-I don't just pursue degrees, I embark on a relentless quest for knowledge. My academic projects showcase my dedication to real-world cybersecurity challenges, from deploying ELB tools to patching OWASP vulnerabilities. The pursuit of certifications like CompTIA Security+ and ISC2's Certified in Cybersecurity is not a checkbox, it's a testament to my commitment to staying at the forefront of the field.
-
 🚀 Beyond the Binary:
 
 But my interests extend beyond the digital realm. I actively engage in cybersecurity challenges like PicoCTF and TryHackMe, showcasing a love for continual learning. Whether it's the precision of coding, the strategy of competitive basketball since the 6th grade, or the creativity displayed in winning 2nd place in Scratch Game Development, every facet of my journey exudes a passion for excellence.
